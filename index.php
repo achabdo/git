@@ -6,4 +6,5 @@ header
 
 <main> hello world
 <p>ajouter main with new component</p>
-</main>
+</main> yes
+<p>hello world</p>
