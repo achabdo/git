@@ -3,3 +3,7 @@
 <header>
 header
 </header>
+
+<main>
+<p>ajouter main</p>
+</main>
