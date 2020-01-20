@@ -8,3 +8,4 @@ header
 <p>ajouter main with new component on mime type</p>
 </main> yes
 <p>hello world</p>
+Edited from github
